@@ -230,7 +230,7 @@ const Portfolio = () => {
           </div>
           
           <h2 className="text-2xl md:text-3xl font-semibold" style={{ color: theme.gold }}>
-            Full Stack Developer
+             Java Full Stack Developer
           </h2>
           
           <p className="text-lg leading-relaxed" style={{ color: theme.textSecondary }}>
