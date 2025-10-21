@@ -4,7 +4,7 @@
   "private": true,
   "description": "Premium Full Stack Developer Portfolio - Pradeep M",
   "author": "Pradeep M <pradeepkrishna140@gmail.com>",
-  "homepage": "https://pradeepdevs140.github.io",
+  "homepage": ".",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
