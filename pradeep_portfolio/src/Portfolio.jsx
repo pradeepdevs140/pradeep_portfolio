@@ -45,6 +45,19 @@ const Portfolio = () => {
   const theme = isDarkMode ? colors.dark : colors.light;
 
   const projects = [
+
+    {
+title: "Invoice Generator System",
+tech: "Spring Boot, React.js, MongoDB",
+description: "Full‑stack invoice generation system with secure authentication, dynamic invoice templates, email service, dashboards, and real‑time data storage for automated billing workflows.",
+github: "https://github.com/pradeepdevs140/InvoiceGenerator_frontend",
+features: [
+"User Authentication & Authorization",
+"Dynamic Invoice Templates",
+"Email Automation",
+"Real‑time Data Storage & Dashboard"
+]
+},
     {
       title: "Alumni Relations Management System",
       tech: "Spring Boot, React.js, MySQL",
